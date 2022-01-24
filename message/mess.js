@@ -1,6 +1,6 @@
 module.exports.mess = {
 	        wait: '*Wait Now*',
-			success: '*Succes*',
+			success: '*妥𝑠𝑢𝑓𝑖 ࿖*',
 			wrongFormat: '*Format Is Wrong Retry..!*',
 			error: {
 				api: '*Oops An Error Occurred*',
